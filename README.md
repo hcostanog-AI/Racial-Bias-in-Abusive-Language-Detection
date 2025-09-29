@@ -44,13 +44,6 @@ This imbalance underscores how dataset bias and class imbalance can distort mode
 
 ---
 
-## 📂 Repository Contents
-- `notebooks/replication.ipynb` → Jupyter notebook with full pipeline.  
-- `results/` → Classification reports & metrics.  
-- `requirements.txt` → Python dependencies.  
-
----
-
 ## 🧰 Tech Stack
 - Python  
 - pandas, numpy  
